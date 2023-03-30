@@ -5,7 +5,7 @@
 Modifica la actividad principal para añadir un RecyclerView de películas (Film):
 - Define un layout para cada película:
   - Se deben mostrar todos los campos de la película
-  - Añade un botón con el texto "Eliminar"
+    - Añade un botón con el texto "Eliminar"
 - Modificar FilmAdapter de forma que acepte una lista de películas (List<Film>)
 - Modifica MainActivity para que el RecyclerView use el FilmAdapter:
   - Carga los datos que hay en MainActivity
